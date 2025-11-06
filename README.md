@@ -35,7 +35,7 @@ A full-stack Event Booking Management System with a React frontend and an ASP.NE
        dotnet run
    - Or in Visual Studio set the backend project as startup and use __Debug > Start Debugging__ (or press __F5__).
 
-2. Frontend
+2. Frontend- view repository "event booking organization system frontend"
    - Open a terminal in event-frontend/
    - Install:
      npm install
