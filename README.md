@@ -90,9 +90,6 @@ Open the controllers in Controllers/ to see exact routes and request/response sh
 - Add migrations when changing data models.
 - Run the app locally and add tests for new functionality where appropriate.
 
-## License
-MIT (or choose a license for your project)
 
----
 
 This README.md was added to the repository root to describe setup, structure, and run instructions for the Event Booking Management System (EBS).
